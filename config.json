@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "uma",
-    "PREFIX": "/",
+    "BOTNAME": "ali ka bot",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61582493356125"
+        "61578237884017"
     ],
     "NDH": [
-        "61582493356125"
+        "61578237884017"
     ],
     "DATABASE": {
         "sqlite": {
